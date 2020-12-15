@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fcmService</string>
+    <string name="default_notification_channel_id">foodosti</string>
+    <string name="default_notification_channel_description">description</string>
+</resources>
